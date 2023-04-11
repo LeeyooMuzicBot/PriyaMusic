@@ -1,6 +1,6 @@
 # 𝐏𝐫𝐢𝐲𝐚𝐌𝐮𝐬𝐢𝐜𝐁𝐨𝐭 💃
 
-<p align="center"><a href="https://t.me/priyamuzicbot"> <img src="https://img.shields.io/badge/𝐏𝐫𝐢𝐲𝐚 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-lightblue?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
+<p align="center"><a href="https://t.me/priyamuzicbot"> <img src="https://img.shields.io/badge/𝐏𝐫𝐢𝐲𝐚 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-blue?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
 
 <p align="center"><a href="https://t.me/priyaupdates"><img src="https://telegra.ph//file/a855ceaa3910d17a3174a.jpg"></a></p>
