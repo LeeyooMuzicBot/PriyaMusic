@@ -9,7 +9,7 @@
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🤫
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LeeyooMuzicBot/PriyaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-orange?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LeeyooMuzicBot/PriyaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🤨
 <br><b> Necessary Variables in config.py file you have to fill. </b><br>
