@@ -36,7 +36,7 @@ async def _human_time_duration(seconds):
     return ", ".join(parts)
 
 start_keyboard = InlineKeyboardMarkup( [[
-      InlineKeyboardButton("💫ᴄᴏᴍᴍᴀɴᴅs💫", url=f"https://telegra.ph/𓆩-ɪᴛsɴɪʀᴊᴏɴ𓆪-02-27"), 
+      InlineKeyboardButton("💫ɢɪᴛʜᴜʙ ʀᴇᴘᴏ💫", url=f"https://github.com/LeeyooMuzicBot/PriyaMusic"), 
       ],[
       InlineKeyboardButton("🌺sᴜᴘᴘᴏʀᴛ", url=f"t.me/{GROUP_SUPPORT}"), 
       InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs🌺", url=f"t.me/{UPDATES_CHANNEL}"), 
