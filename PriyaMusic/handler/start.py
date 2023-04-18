@@ -50,7 +50,7 @@ start_keyboard = InlineKeyboardMarkup( [[
 @Client.on_message(filters.command("start") & filters.private)
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        text=f"**ʜᴇʟʟᴏ {message.from_user.mention()}\n\n🥀 ʜɪ ɪᴀᴍ {BOT_NAME} ᴀᴅᴠᴀɴᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ♪♪ ʙᴏᴛ\n😇ʀᴜɴ ᴏɴ ᴘʀɪᴠᴀᴛᴇ 💫 ᴠᴘs 🥀 sᴇʀᴠᴇʀ 🌎 \nғᴇᴇʟ 😊 ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ 🎧 ɪɴ ᴠᴄ 😎🤟 \n⭐ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ  [ʙᴏᴛ ᴏᴡɴᴇʀ](tg://settings)😌..**", 
+        text=f"Hello, {message.from_user.mention()} My name is {BOT_NAME} \n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc. \n\nFeel free to add me to your groups.", 
         disable_web_page_preview=True,
         reply_markup=start_keyboard, 
     )
