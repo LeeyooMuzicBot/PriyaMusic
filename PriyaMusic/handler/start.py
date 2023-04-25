@@ -36,13 +36,15 @@ async def _human_time_duration(seconds):
     return ", ".join(parts)
 
 start_keyboard = InlineKeyboardMarkup( [[
-      InlineKeyboardButton("💫ɢɪᴛʜᴜʙ ʀᴇᴘᴏ", url=f"https://github.com/LeeyooMuzicBot/PriyaMusic"),
-      InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs💫", url=f"https://graph.org/file/9df7f53d1a3473e80b68f.jpg"),
+      InlineKeyboardButton("🔎How to Use?Commands Menu.", url=f"https://graph.org/file/9df7f53d1a3473e80b68f.jpg")
       ],[
-      InlineKeyboardButton("🌺sᴜᴘᴘᴏʀᴛ", url=f"t.me/{GROUP_SUPPORT}"), 
-      InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs🌺", url=f"t.me/{UPDATES_CHANNEL}"), 
+      InlineKeyboardButton("💡Git Repo", url=f"https://github.com/LeeyooMuzicBot/PriyaMusic"),
+      InlineKeyboardButton("👤Bot Owner", url=f"https://t.me/tg://settings"),
       ],[
-      InlineKeyboardButton("🥀 ᴀᴅᴅ ᴍᴇ ᴍᴏᴏᴅᴇʟ 🥀", url=f"t.me/{BOT_USERNAME}?startgroup=True")
+      InlineKeyboardButton("📨Channel", url=f"t.me/{GROUP_CHANNEL}"), 
+      InlineKeyboardButton("Support📨", url=f"t.me/{UPDATES_SUPPORT}"), 
+      ],[
+      InlineKeyboardButton("➕Add me to your Group", url=f"t.me/{BOT_USERNAME}?startgroup=True")
       ]]
       ) 
 
