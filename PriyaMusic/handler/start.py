@@ -41,8 +41,8 @@ start_keyboard = InlineKeyboardMarkup( [[
       InlineKeyboardButton("💡Git Repo", url=f"https://github.com/LeeyooMuzicBot/PriyaMusic"),
       InlineKeyboardButton("👤Bot Owner", url=f"https://t.me/tg://settings"),
       ],[
-      InlineKeyboardButton("📨Channel", url=f"t.me/{GROUP_CHANNEL}"), 
-      InlineKeyboardButton("Support📨", url=f"t.me/{UPDATES_SUPPORT}"), 
+      InlineKeyboardButton("📨Channel", url=f"t.me/{UPDATES_CHANNEL}"), 
+      InlineKeyboardButton("Support📨", url=f"t.me/{GROUP_SUPPORT}"), 
       ],[
       InlineKeyboardButton("➕Add me to your Group", url=f"t.me/{BOT_USERNAME}?startgroup=True")
       ]]
