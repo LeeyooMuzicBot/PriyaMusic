@@ -38,3 +38,5 @@ python3 main.py # Run the bot
 <p align="center"><a href="https://t.me/priyaupdates"><img src="https://img.shields.io/badge/𝐒𝐔𝐏𝐏𝐎𝐑𝐓-cyan?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
 <p align="center"><a href="https://t.me/priyaupdates"><img src="https://img.shields.io/badge/𝐂𝐇𝐀𝐍𝐍𝐄𝐋-cyan?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
 
+<h3 align="center">𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 ✘ 𝐂𝐨𝐮𝐧𝐭𝐬</h3>
+<a href="https://github.com/LeeyooMuzicBot/PriyaMusic"><img alt="Cute Count" src="https://count.getloli.com/get/@priyamusic?theme=rule34" /></a>
