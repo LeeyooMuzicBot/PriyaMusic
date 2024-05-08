@@ -1,4 +1,4 @@
-FROM python3.10-nodejs19
+FROM python3.10
 RUN apt update && apt upgrade -y
 RUN apt install python3-pip -y
 RUN apt install ffmpeg -y
