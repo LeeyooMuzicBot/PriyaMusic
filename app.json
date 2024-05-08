@@ -29,19 +29,19 @@
         },
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
-            "required": false,
+            "required": false
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
-            "required": false,
+            "required": false
         },
         "SESSION_NAME": {
-            "description": "A Pyrogram String Session",
+            "description": "",
             "required": true
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
-            "required": true,
+            "required": true
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
@@ -56,6 +56,7 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
+            "value": ""
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
