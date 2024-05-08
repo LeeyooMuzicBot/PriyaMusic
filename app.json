@@ -42,7 +42,6 @@
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true,
-            "value": "5413065936"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
