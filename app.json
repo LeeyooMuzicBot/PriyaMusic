@@ -31,6 +31,7 @@
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
             "required": false
+            "value": "PriyaMuzicBot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
