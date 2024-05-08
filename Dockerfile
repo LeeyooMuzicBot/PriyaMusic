@@ -3,6 +3,7 @@ RUN apt update && apt upgrade -y
 RUN apt install python3-pip -y
 RUN apt install ffmpeg -y
 FROM nikolaik/python-nodejs:python3.10-nodejs19
+RUN curl -fsSL https://deb.nodesource.com/setup_15.x |  bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
 RUN mkdir /app/
