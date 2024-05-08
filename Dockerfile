@@ -1,4 +1,4 @@
-FROM python3.10
+FROM python:3.9
 RUN apt update && apt upgrade -y
 RUN apt install python3-pip -y
 RUN apt install ffmpeg -y
@@ -11,4 +11,3 @@ WORKDIR /app
 RUN pip3 install --upgrade pip
 RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 CMD python3 main.py
-
