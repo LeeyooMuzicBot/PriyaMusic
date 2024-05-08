@@ -29,12 +29,11 @@
         },
         "BOT_NAME": {
             "description": "fill with your bot name from @BotFather",
-            "required": false
+            "required": false,
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
-            "required": false
-            "value": "shhdgdd"
+            "required": false,
         },
         "SESSION_NAME": {
             "description": "A Pyrogram String Session",
@@ -58,7 +57,6 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "shhdgdd"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
