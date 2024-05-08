@@ -11,10 +11,12 @@ heroku3
 lyricsgenius
 motor==3.0.0
 pillow
+pillow==9.5.0
 psutil
 py-tgcalls
+py-tgcalls==0.9.7
 pykeyboard
-pyrogram==1.4.16
+pyrogram==2.0.106
 python-arq
 python-dotenv
 pyyaml==5.3.1
